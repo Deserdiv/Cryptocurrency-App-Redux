@@ -30,7 +30,7 @@ const App = () => {
           Created by Damilola Adegbemile </Typography.Title>
           <Space>
             <Link to='/'>Home</Link>
-            <a href ='https://mykryptlive.netlify.app/' target='blank'>MyKrypt</a>
+            <a href ='https://deserdiv.netlify.app/' target='blank'>MyCrypto</a>
             <Link to='/news'>News</Link>
           </Space>
       </div>
